@@ -1,3 +1,5 @@
+※フォークのテスト
+
 [![Railsチュートリアル_バナー画像](http://yasslab.jp/img/header-railstutorial.png)](https://railstutorial.jp/)
 
 # Rails チュートリアル sample_app コード集
